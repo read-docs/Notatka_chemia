@@ -2,7 +2,7 @@
 
 ---
 
-### Występpoowanie w przyrodzie
+### Występowanie w przyrodzie
 
 1. w stanie wolnym
 
@@ -60,7 +60,7 @@ Występowanie w tym samym stanie skupienia róznych odmian tego samego pierwiast
 
 ### Nanocebulki
 
-- Fulereny wielorawstwower
+- Fulereny wielorwstwowe
 
 ### Cyklokarbon
 
@@ -81,8 +81,8 @@ oraz jak je skladac
 
 ### Xeny
 
-Materialy ktore wygldajaa  jak grafen (sa jedna warsta)
-takie jak
+  Materialy ktore wygldajaa  jak grafen (sa jedna warsta)
+  takie jak
 
 - Germanen
 - Borofen ( Jest lepszym grafenem ale trudno go wyprodukować)
