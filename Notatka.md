@@ -32,7 +32,8 @@
   - bezbarwny
   - bezwonny
   - nipalny gaz
-  - gaz cieplarniany, ktory zatrzymuje sie przy powierzchni ziemi   i zatrzymuj część ciepła docierającego ze Słońca
+  - gaz cieplarniany, ktory zatrzymuje sie przy powierzchni ziemi   
+  i zatrzymuj część ciepła docierającego ze Słońca
 
 
 ## Krzem
@@ -47,11 +48,13 @@
 
 ### Katynacja
 
-To zjawisko tworzenia wiązań między atomami tego samego pierwiastka,  prowadzące do powstania łańcuchów ziwiazków chemicznych
+To zjawisko tworzenia wiązań między atomami tego samego pierwiastka,
+prowadzące do powstania łańcuchów ziwiazków chemicznych
 
 ### Alotropia
 
-Występowanie w tym samym stanie skupienia róznych odmian tego samego pierwiastka chemicznego,  różniacych sie wlasciwosciami
+Występowanie w tym samym stanie skupienia róznych odmian tego samego pierwiastka chemicznego,
+różniacych sie wlasciwosciami
 
 ### Fulereny
 
@@ -60,7 +63,7 @@ Występowanie w tym samym stanie skupienia róznych odmian tego samego pierwiast
 
 ### Nanocebulki
 
-- Fulereny wielorwstwowe
+Fulereny wielorwstwowe
 
 ### Cyklokarbon
 
