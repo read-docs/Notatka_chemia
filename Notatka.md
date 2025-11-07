@@ -6,9 +6,9 @@
 
 1. w stanie wolnym
 
- - grafen
- - grafit
- - diament
+   - grafen
+   - grafit
+   - diament
 
 2. Mieszanki zwiazkow węgla
     
